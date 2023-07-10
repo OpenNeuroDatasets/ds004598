@@ -1,0 +1,11 @@
+{
+  "TaskName": "Lineartrack",
+  "SamplingFrequency": 10000,
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": "n/a",
+  "Manufacturer": "n/a",
+  "ManufacturersModelName": "a/a",
+  "TaskDescription": "Subjects were walking back and forth in a linear track, while hippocampal LFP are meassured in the right dorsal hippocampus",
+  "Instructions": "n/a",
+  "EEGReference": "n/a"
+}

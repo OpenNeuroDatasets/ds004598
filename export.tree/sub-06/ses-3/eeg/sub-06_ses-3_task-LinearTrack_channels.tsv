@@ -1,0 +1,17 @@
+name	type	units	sampling_frequency	description	low_cutoff	high_cutoff	notch	software_filters	status	status_description
+E_E1	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E2	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E3	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E4	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E5	EMG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E6	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E7	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E8	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E9	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E10	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E11	EMG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E12	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E13	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E14	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E15	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+E_E16	EEG	µV	10000	n/a	n/a	n/a	n/a	n/a	n/a	n/a
